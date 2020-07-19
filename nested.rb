@@ -67,7 +67,7 @@ def adding_matz
 #    :languages => ["LISP", "C"]
 # }
 :yukihiro_matsumoto[:known_for] = "Ruby"
-:yukihiro_matsumoto[:languages] = 
+:yukihiro_matsumoto[:languages] = "LISP", "C"
 	 
  		{
         :grace_hopper => {
