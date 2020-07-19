@@ -85,16 +85,16 @@ def adding_matz
         }
         
  		}
- 		var= {
+ 		
+ 	var= {
   :known_for => "Ruby",
   :languages => ["LISP", "C"]
 }
  
  programmer_hash[:yukihiro_matsumoto] = var
 
-
-    
 end
+
 
 def changing_alan
 	programmer_hash = 
